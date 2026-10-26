@@ -1,0 +1,17 @@
+Smart Farming Dashboard - Sensor Data
+
+Sensor 1: Soil Moisture
+Value: 65%
+Status: Normal
+
+Sensor 2: Temperature
+Value: 30 C
+Status: Normal
+
+Sensor 3: Humidity
+Value: 72%
+Status: Normal
+
+Sensor 4: Water Level
+Value: 80%
+Status: Sufficient
